@@ -8,7 +8,7 @@
 - 🎨 Formada em Design Gráfico, apaixonada por tecnologia, UX/UI e desenvolvimento front-end.
 - 🚀 Explorando novas tecnologias e buscando oportunidades para aplicar meus conhecimentos.
 
-
+<br/>
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -56,17 +56,5 @@
 <br/>
 <br/>
 
-## 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=brunasugamori&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 
-
-</p>
