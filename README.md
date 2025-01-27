@@ -2,7 +2,12 @@
 
 **`Desenvolvedora Front-end`**
 
-...
+
+- 👋 Olá! Eu sou a Bruna Sugamori
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Impacta.
+- 🎨 Formada em Design Gráfico, apaixonada por tecnologia, UX/UI e desenvolvimento front-end.
+- 🚀 Explorando novas tecnologias e buscando oportunidades para aplicar meus conhecimentos.
+
 
 
 ## 🤖 Linguagens e Tecnologias
